@@ -1,0 +1,5 @@
+ami-type      = "ami-04581fbf744a7d11f"
+instance_type = "t2.micro"
+environment   = "dev"
+instance-name = "Postgresql-Terraform-demo.dev"
+team          = "dev team"
